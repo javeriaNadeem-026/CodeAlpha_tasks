@@ -18,7 +18,7 @@ The repository includes multiple mini projects completed as part of the internsh
   A basic music player with play, pause, and track navigation features.
 
 ## Technologies Used
-1; HTML
+1. HTML
 2. CSS
 3. JavaScript
 
